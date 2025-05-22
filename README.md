@@ -43,7 +43,9 @@ Deeper department-level drill-downs
 📁 Dataset
 The dataset used is a sample HR dataset that includes employee demographics, job details, satisfaction levels, and attrition status.
 
-📸 Preview
+![image](https://github.com/user-attachments/assets/85168142-1513-4c2c-a1d7-324973667fa7)
+
+
 
 🤝 Connect with Me
 If you’re interested in HR analytics, dashboards, or business intelligence, feel free to connect:
